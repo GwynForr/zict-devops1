@@ -1,1 +1,1 @@
-this is my sample git file 
+this is my sample git file.  Added info to compare changes  
